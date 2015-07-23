@@ -1,0 +1,6 @@
+Functional Interfaces and lamda Expressions:
+1.java.util.function has to be explored for function interfaces
+2.predicate is one of java functional interface for filter
+3.collection iterable interface has foreach method which accept consumer functional interface
+Method References in java8
+in case of sort we used to pass comparator now we can pass reference for method

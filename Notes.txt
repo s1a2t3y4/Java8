@@ -4,3 +4,6 @@ Functional Interfaces and lamda Expressions:
 3.collection iterable interface has foreach method which accept consumer functional interface
 Method References in java8
 in case of sort we used to pass comparator now we can pass reference for method
+Stream api:
+parallel
+sequential
